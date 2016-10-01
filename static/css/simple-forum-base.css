@@ -1,0 +1,27 @@
+.footer {
+  position: absolute;
+  bottom: 0px;
+  margin-top: 70px;
+  background-color: #a5a5a5;
+}
+
+.navbar-default {
+  background-color: #213446;
+  border-color: #3e6962;
+}
+
+.navbar-header > .navbar-brand {
+  color: white;
+}
+
+.navbar-header > .navbar-brand:hover {
+  color: white;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: white;
+}
